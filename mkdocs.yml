@@ -1,5 +1,0 @@
-site_name: Blog Berlin 2018
-theme: material
-docs_dir: docs
-extra_css:
-  - 'stylesheets/extra.css'
